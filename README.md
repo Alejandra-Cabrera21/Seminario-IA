@@ -96,13 +96,13 @@ curl -X POST http://localhost:5000/predict \
 
 ## Equipo
 
-| Integrante | Rol |
+| Integrante | Nombre |
 |-----------|-----|
-| Integrante 1 | Lider / ML Engineer |
-| Integrante 2 | Data Engineer — ETL con Pandas (Lab 1) |
-| Integrante 3 | Backend Developer — Flask API |
-| Integrante 4 | Frontend Developer — App Web |
-| Integrante 5 | Documentacion y Presentacion |
+| Integrante 1 | Alejandra Cabrera - 1066921|
+| Integrante 2 | Yasmely Fariñas - 1329223) |
+| Integrante 3 | Joaquín Choc  — 1280423 |
+| Integrante 4 | Daniel Díaz  — 1040023 |
+| Integrante 5 | Héctor Flores - 1199923 |
 
 ---
 
