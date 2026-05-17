@@ -18,7 +18,6 @@ FraudShield AI aplica los tres algoritmos de clasificacion supervisada del curso
 **Dataset:** Credit Card Fraud Detection (Kaggle) — 284,807 transacciones reales.
 
 ---
----
 
 ## Equipo
 
