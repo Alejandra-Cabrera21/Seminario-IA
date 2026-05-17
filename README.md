@@ -9,8 +9,8 @@
 
 FraudShield AI aplica los tres algoritmos de clasificacion supervisada del curso de IA para detectar fraude bancario en tiempo real. El preprocesamiento sigue la metodologia ETL del Laboratorio 1 con Pandas.
 
-| Algoritmo | Tema del Curso |
-|-----------|---------------|
+| Algoritmo |
+|-----------|
 | Naive Bayes Gaussiano |
 | Regresion Logistica |
 | MLP Red Neuronal |
