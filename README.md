@@ -32,10 +32,4 @@ FraudShield AI aplica los tres algoritmos de clasificacion supervisada del curso
 ---
 
 ## Referencias
-
-- Russell & Norvig (2020). *Artificial Intelligence: A Modern Approach* (4a ed.)
-- Goodfellow et al. (2016). *Deep Learning*. MIT Press.
 - Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-- Scikit-learn: https://scikit-learn.org/
-
-**Universidad Rafael Landivar | Inteligencia Artificial | 2026**
